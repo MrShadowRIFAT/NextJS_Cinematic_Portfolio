@@ -4,6 +4,10 @@
   "type": "module",
   "description": "Cinematic portfolio for MrShadowRIFAT - Full-Stack Web Developer & Digital Systems Specialist",
   "homepage": "https://rifatweb.link",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrShadowRIFAT/NextJS_Cinematic_Portfolio.git"
+  },
   "author": "MrShadowRIFAT <contact@rifatweb.link> (https://rifatweb.link)",
   "license": "MIT",
   "scripts": {
