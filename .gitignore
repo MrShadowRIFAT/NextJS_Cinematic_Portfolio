@@ -1,0 +1,15 @@
+# GitSync default exclusions
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.log
+.env
+.env.local
