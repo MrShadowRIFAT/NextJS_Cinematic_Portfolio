@@ -1,32 +1,52 @@
-# Cinematic Developer Portfolio
+# NextJS_Cinematic_Portfolio
 
-A dark cinematic portfolio website built with React 19, Framer Motion, and esbuild.
+![GitHub last commit](https://img.shields.io/github/last-commit/MrShadowRIFAT/NextJS_Cinematic_Portfolio?style=flat-square&color=1f6feb) ![GitHub repo size](https://img.shields.io/github/repo-size/MrShadowRIFAT/NextJS_Cinematic_Portfolio?style=flat-square&color=238636)
 
-- **Author**: MrShadowRIFAT
-- **Website**: [rifatweb.link](https://rifatweb.link)
+**NextJS_Cinematic_Portfolio** is a project built with CSS / Tailwind, HTML5, JavaScript, Node.js.
 
 ## Tech Stack
 
-- **React 19**
-- **Framer Motion 12**
-- **Lucide React**
-- **esbuild**
+- **CSS / Tailwind**
+- **HTML5**
+- **JavaScript**
+- **Node.js**
+
+## Project Structure
+
+```text
+NextJS_Cinematic_Portfolio/
+├── .gitignore
+├── Asset/
+│   ├── cv/
+│   ├── img/
+│   ├── svg/
+├── README.md
+├── index.html
+├── live_preview.js
+├── package-lock.json
+├── package.json
+├── scripts/
+│   ├── build.mjs
+│   ├── check.mjs
+│   ├── dev.mjs
+├── src/
+│   ├── app.jsx
+│   ├── data/
+│   ├── styles.css
+```
 
 ## Getting Started
 
-### 1. Install Dependencies
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/MrShadowRIFAT/NextJS_Cinematic_Portfolio.git
+cd NextJS_Cinematic_Portfolio
+```
+
+### Install & Run (Node.js)
+
 ```bash
 npm install
+npm run dev
 ```
-
-### 2. Build for Production
-```bash
-npm run build
-```
-This compiles the production assets into `Asset/dist/app.js` and `Asset/dist/app.css`.
-
-### 3. Local Development & Preview
-```bash
-npm start
-```
-Starts the local preview server at `http://localhost:4173/`.
