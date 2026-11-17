@@ -1,0 +1,128 @@
+[
+  {
+    "type": "website",
+    "title": "AnzoIT Limited Agency Platform",
+    "description": "Full-scale digital agency platform featuring custom theme architecture, client portal, automated deployment pipeline, and performance optimization on Linux infrastructure.",
+    "media": "https://anzoit.com",
+    "role": "Technical Operations & Lead Developer",
+    "year": "2024",
+    "category": "Platforms",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "Dekhobhai Streaming Platform",
+    "description": "Custom media streaming platform built with Next.js, responsive video player integration, fast catalog search, and optimized CDN edge caching.",
+    "media": "https://dekhobhai.com",
+    "role": "Full-Stack Web Developer",
+    "year": "2024",
+    "category": "Streaming",
+    "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "render",
+    "title": "3D REACT INTERACTIVE SYSTEM",
+    "year": "2025",
+    "role": "Frontend & 3D Web Architect",
+    "description": "Interactive Three.js and React 3D web experience demonstrating dynamic lighting, WebGL shaders, real-time geometry rendering, and smooth camera physics for modern web platforms.",
+    "renders": [
+      {
+        "solid": "https://res.cloudinary.com/do76nqxfr/image/upload/v1772850523/Untitled_rbleby.png",
+        "material": "https://res.cloudinary.com/do76nqxfr/image/upload/v1772850529/0001_a4n9pw.png",
+        "final": "https://res.cloudinary.com/do76nqxfr/image/upload/v1772850519/0001-2_qs9nah.jpg"
+      }
+    ],
+    "image": "https://res.cloudinary.com/do76nqxfr/image/upload/v1772850519/0001-2_qs9nah.jpg",
+    "category": "Full-Stack"
+  },
+  {
+    "type": "website",
+    "title": "Shadow Shop Subscription Platform",
+    "description": "Digital subscription commerce infrastructure operating since 2017. Built with automated user license generation, secure payment gateway integrations, and self-healing cloud server backups.",
+    "media": "https://rifatweb.link",
+    "role": "Founder & System Architect",
+    "year": "2023",
+    "category": "E-Commerce",
+    "image": "https://images.unsplash.com/photo-1556742049-0a67c5574f73?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "The Infinity UK Commercial Platform",
+    "description": "Enterprise British business platform with bespoke WordPress theme development, advanced custom fields (ACF), schema SEO, and sub-second load times.",
+    "media": "https://theinfinityuk.com",
+    "role": "WordPress Developer",
+    "year": "2024",
+    "category": "WordPress",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "SNF Business Corporate Hub",
+    "description": "High-traffic corporate website with REST API integrations, dynamic lead capture forms, multi-layer caching, and automated cloud backup protocols.",
+    "media": "https://snfbusiness.com",
+    "role": "Full-Stack Developer",
+    "year": "2023",
+    "category": "Platforms",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "Aerospace & Avionics Engineering Platform",
+    "description": "Modern technical platform engineered for aerospace avionics research. Clean typography, research paper index, and lightning-fast static generation.",
+    "media": "https://rifatweb.link",
+    "role": "Frontend & Systems Developer",
+    "year": "2024",
+    "category": "Platforms",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "Rifatweb.link & Developer Hub",
+    "description": "Central personal portal and developer documentation platform engineered with Next.js, Tailwind CSS, dark mode design system, and global CDN delivery.",
+    "media": "https://rifatweb.link",
+    "role": "Creator & Full-Stack Engineer",
+    "year": "2025",
+    "category": "Full-Stack",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "WooCommerce Multi-Vendor Storefront",
+    "description": "Custom WooCommerce store architecture handling thousands of SKUs, customized checkout flow, payment webhook synchronizations, and 99.9% uptime.",
+    "media": "https://rifatweb.link",
+    "role": "WordPress & WooCommerce Specialist",
+    "year": "2023",
+    "category": "WordPress",
+    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "Linux Server Deployment & Infrastructure",
+    "description": "Production Linux server provisioning, Nginx reverse proxy configuration, cPanel migrations, SSL automation, and DNS routing via Cloudflare Enterprise rules.",
+    "media": "https://github.com/MrShadowRIFAT",
+    "role": "DevOps & Systems Specialist",
+    "year": "2024",
+    "category": "Web Systems",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "Open Source Web Utilities & Scripts",
+    "description": "Suite of developer productivity tools, DOM automation scripts, and API connectors maintained publicly on GitHub to support developer workflows.",
+    "media": "https://github.com/MrShadowRIFAT",
+    "role": "Open Source Author",
+    "year": "2023",
+    "category": "Open Source",
+    "image": "https://images.unsplash.com/photo-1618401471353-b98aedd04e11?w=1000&auto=format&fit=crop&q=80"
+  },
+  {
+    "type": "website",
+    "title": "Core Web Vitals Speed Engine",
+    "description": "Full audit and re-engineering pipeline achieving 98+ PageSpeed scores on complex client platforms through critical CSS splitting, asset deferral, and server caching.",
+    "media": "https://rifatweb.link",
+    "role": "Performance Engineer",
+    "year": "2024",
+    "category": "Web Systems",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1000&auto=format&fit=crop&q=80"
+  }
+]

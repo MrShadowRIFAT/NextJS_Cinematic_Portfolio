@@ -1,15 +1,29 @@
-# GitSync default exclusions
+# Dependencies
 node_modules/
-vendor/
-__pycache__/
-*.pyc
-.venv/
-dist/
-build/
+.pnp
+.pnp.js
+
+# Logs & Debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+.system_generated/
+
+# OS metadata
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# IDE & Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+.gemini/
 *.tmp
-*.swp
-*.log
-.env
-.env.local
